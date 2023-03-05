@@ -1,7 +1,7 @@
 # Nolus Rila Testnet
 
 <p align="center">
-  <img src="https://github.com/quxeed/snap/blob/main/1500x500.jpg" alt="alt text" width="750" height="250">
+  <img src="https://raw.githubusercontent.com/quxeed/nolus-testnet-snapshot/main/1500x500.jpg" alt="alt text" width="750" height="250">
 </p>
 
 Nolus Protocol is a Web3 financial suite that offers an innovative approach to money markets with a novel lease solution to develop the DeFi space further. The Protocol utilizes a lightning-fast semi-permissioned proof-of-stake Layer-1 blockchain built using the Cosmos SDK, where smart contracts are developed in Rust and executed within the isolated sandboxing model by CosmWASM enforcing robust security and multi-chain compatibility.
