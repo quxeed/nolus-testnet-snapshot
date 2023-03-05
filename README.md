@@ -36,7 +36,7 @@ rm -rf $HOME/.nolus/data
 ```
 
 ### 5.Download snapshot
-## Height `1249114` 05.03.2023
+## Height `1249114` 05.03.2023 19.2gb
 ```
 wget http://185.202.223.124:8100/nolus-snap-05032023.tar.lz4 | tar -Ilz4 -xf - -C $HOME/.nolus
 mv $HOME/.nolus/priv_validator_state.json.backup $HOME/.nolus/data/priv_validator_state.json
